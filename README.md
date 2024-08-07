@@ -2,17 +2,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+To run tests, run the following command:
+
+Using yarn:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  yarn
 ```
+```bash
+  yarn dev
+```
+Using npm
+```bash
+  npm i 
+```
+```bash
+  npm run dev
+```
+NOTE: You must have installed nodejs current/update version on your computer before run the project.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
